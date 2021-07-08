@@ -16,7 +16,7 @@ function ToolBar(props: any): any {
 
 }
 const ThemedButton = (props: any) => {
-    return <Button type={props.type}  >App</Button>;
+    return <Button type={props.type}  >SSS</Button>;
 }
 
 export default App;
